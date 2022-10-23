@@ -1,0 +1,71 @@
+html,body{
+    margin: 0;
+}
+
+.bgr-atlantic {
+    background-image: url(../img_Atlantic_Ocean/photo-1602345492915-a307c8cce1ad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.header-placeholder {
+    height: 5.714rem; /*80px*/
+    background: linear-gradient(224deg, #96c1ef 31.69%, #b9d8f5 73.96%);
+}
+
+.title-Atlantic{
+    margin-top: 5.714rem; /*80px*/
+    margin-bottom: 5rem;/*70px*/
+    text-align: center;
+    font-size: 3.571rem;/*50*/
+    font-family: 'Marck Script', cursive;
+
+   }
+  
+h5{
+    font-family: 'Pacifico', cursive;
+}
+
+  .info-Atlantic{
+    margin: 0 auto;
+    width: 50rem;/*700px*/
+    text-align: justify;
+    font-size:  1.285rem;/*18px*/
+    margin-bottom: 14.285rem;/*200px*/
+  }
+
+  .Atlantic-flex{
+display: flex;
+justify-content: space-between;
+  }
+
+.Atlantic-content-a{
+    text-align: justify;
+    width:  35.714rem;/*500px*/
+    background: linear-gradient(224deg, #b3c9e0 31.69%, #4f7393 73.96%);
+    padding: 0 20px;
+    margin-left: 1.428rem;/*20px*/
+    border-radius: 1.071rem;/*15px*/
+    
+}
+
+.Atlantic-content-a h5{
+    text-align: center;
+    font-size: 1.785rem;/*25px*/
+}
+
+.Atlantic-content-b{
+    text-align: justify;
+    width: 35.714rem;/*500px*/
+    background: linear-gradient(224deg, #b3c9e0 31.69%, #4f7393 73.96%);
+    padding: 0 20px;
+    margin-right: 1.428rem;/*20px*/
+    border-radius: 1.071rem;/*15px*/
+}
+
+.Atlantic-content-b h5{
+    text-align: center;
+    font-size:  1.785rem;/*25px*/
+}
+
